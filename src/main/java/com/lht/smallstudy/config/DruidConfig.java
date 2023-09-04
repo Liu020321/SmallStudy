@@ -1,4 +1,4 @@
-package com.out.config;
+package com.lht.smallstudy.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;

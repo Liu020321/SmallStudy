@@ -3,7 +3,7 @@ server:
   port: 8081
 # 整合mybatis
 mybatis:
-  type-aliases-package: com.out.pojo
+  type-aliases-package: com.lht.smallstudy
   mapper-locations: classpath:mybatis/mapper/*.xml
   config-location: classpath:mybatis-config.xml
 # Spring配置
